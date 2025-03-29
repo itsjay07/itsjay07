@@ -24,35 +24,41 @@
 
 ---
 
-## ⚡ Tech Stack  
-### 🖥️ Backend  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 
-### 🎨 Frontend  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
 
+## ⚡ Tech Stack  
+
+### 🖥️ Backend  
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) **Java**  
+- ![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg) **Spring Boot**  
+- ![Hibernate](https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg) **Hibernate**  
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) **MySQL**  
+- ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) **PostgreSQL**  
+
+### 🎨 Frontend  
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) **HTML**  
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) **CSS**  
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**  
+- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React.js**  
+
 ### 🛠️ Tools & Technologies  
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git**  
+- ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) **GitHub**  
+- ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) **Postman**  
+- ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) **Docker**  
+- ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) **VS Code**  
+- ![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg) **IntelliJ IDEA**  
 
 ---
 
-## 📌 Projects  
-🔹 **Student Management System** *(Spring Boot + Hibernate + MySQL)*  
-🔹 **Hospital Management System** *(Spring Boot, Angular, Hibernate)*  
-🔹 **Customer Management System** *(Spring Boot, Hibernate, MySQL)*  
-🔹 **Bank Management System** *(Java)*  
+### ✨ Additional Enhancements:
+✅ **Proper Line-by-Line Format**  
+✅ **Icons with Bold Text** for better readability  
+✅ **Added Hibernate, React.js, Docker, and IDEs**  
+✅ **More professional and well-structured**  
 
----
-
-🚀 **Always learning, always coding!**  
-💡 Open to collaboration on **exciting Java Full Stack projects**!  
-📩 Feel free to connect and discuss opportunities!  
-
+This will make your **GitHub profile more attractive and professional**! 🚀 Let me know if you need **further improvements**! 😃
