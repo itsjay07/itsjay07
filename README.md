@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaywant Bhimrao Gadekar</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer</h3>
 
 - 📫 How to reach me **jaywantgadekar07@gmail.com**
 
