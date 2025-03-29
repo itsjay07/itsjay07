@@ -20,7 +20,7 @@
 ## 🔧 Technologies & Tools  
 - **Backend:** Java, Spring Boot, Hibernate, JDBC  
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Database:** MySQL, Oracle  
+- **Database:** MySQL   
 - **Version Control:** Git, GitHub  
 - **Other:** REST APIs, JSP, Servlets, PL/SQL  
 
